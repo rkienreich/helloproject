@@ -1,3 +1,8 @@
 //my hello programm in C++
+#include <iostream>
 
-new line
+int main()
+{
+	std::cout << "Hallo liebe Leute!" << std::endl;
+	return 0;
+}
